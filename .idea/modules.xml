@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/VolleyExt.iml" filepath="$PROJECT_DIR$/VolleyExt.iml" />
+      <module fileurl="file://D:\GitHub\VolleyExt\VolleyExt.iml" filepath="D:\GitHub\VolleyExt\VolleyExt.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\GitHub\VolleyExt\app\app.iml" filepath="D:\GitHub\VolleyExt\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/volleyext/volleyext.iml" filepath="$PROJECT_DIR$/volleyext/volleyext.iml" />
+      <module fileurl="file://D:\GitHub\VolleyExt\volleyext\volleyext.iml" filepath="D:\GitHub\VolleyExt\volleyext\volleyext.iml" />
     </modules>
   </component>
 </project>
