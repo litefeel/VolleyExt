@@ -1,6 +1,14 @@
 # VolleyExt
 volley extension library
 
+### How to Use via [JCenter](http://jcenter.bintray.com/com/litefeel/volleyext/)
+
+~~~ gradle
+dependencies {
+    compile 'com.litefeel:volleyext:1.0.0'
+}
+~~~
+
 
 ### How to Use via [jitpack](https://jitpack.io/#litefeel/VolleyExt/)
 
@@ -21,7 +29,7 @@ allprojects {
 
 ~~~ gradle
 dependencies {
-    compile 'com.github.litefeel:VolleyExt:0.1+'
+    compile 'com.github.litefeel:VolleyExt:1.0.0'
 }
 ~~~
 
